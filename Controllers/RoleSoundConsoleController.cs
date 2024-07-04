@@ -7,11 +7,11 @@ namespace APIAutomation.Controllers;
 
 [ApiController]
 [Route("api/v1/[controller]")]
-public class RoleSoundConsole : ControllerBase
+public class RoleSoundConsoleController : ControllerBase
 {
 	IRoleSoundConsole _roleSoundConsole;
 
-    public RoleSoundConsole(IRoleSoundConsole roleSoundConsole)
+    public RoleSoundConsoleController(IRoleSoundConsole roleSoundConsole)
     {
         _roleSoundConsole = roleSoundConsole;
     }

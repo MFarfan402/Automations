@@ -18,6 +18,7 @@
     <None Remove="Interfaces\" />
     <None Remove="Repository\" />
     <None Remove="Source\" />
+    <None Remove="Config\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
@@ -25,5 +26,9 @@
     <Folder Include="Interfaces\" />
     <Folder Include="Repository\" />
     <Folder Include="Source\" />
+    <Folder Include="Config\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="appsettings.Development.json" />
   </ItemGroup>
 </Project>

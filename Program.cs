@@ -1,4 +1,5 @@
-﻿using APIAutomation.Interfaces;
+﻿using APIAutomation.Config;
+using APIAutomation.Interfaces;
 using APIAutomation.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,7 +8,12 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
-builder.Services.AddSingleton<IRoleSoundConsole, RepositoryRoleSoundConsole>();
+// DataSource: File
+builder.Services.AddSingleton<IRoleSoundConsole, RoleSoundConsoleRepository>();
+
+// DataSource: MongoDB
+builder.Services.AddSingleton<IMongoDbContext, MongoDbContext>();
+builder.Services.AddScoped<IReports, ReportsRepository>();
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

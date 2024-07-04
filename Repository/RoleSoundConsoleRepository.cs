@@ -5,9 +5,9 @@ using Newtonsoft.Json;
 
 namespace APIAutomation.Repository;
 
-public class RepositoryRoleSoundConsole : IRoleSoundConsole
+public class RoleSoundConsoleRepository : IRoleSoundConsole
 {
-	public RepositoryRoleSoundConsole() {}
+	public RoleSoundConsoleRepository() {}
 
     public ResponseRole GetTodayRole()
     {
