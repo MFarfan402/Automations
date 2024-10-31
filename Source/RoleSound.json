@@ -1,102 +1,92 @@
 ﻿[
   {
-    "date": "29/08/2024",
-    "personA": "Abisay",
-    "personB": "Neftali"
-  },
-  {
-    "date": "01/09/2024",
-    "personA": "Jehosafat",
-    "personB": "Abihud"
-  },
-  {
-    "date": "05/09/2024",
-    "personA": "Pedro",
-    "personB": "Esteban"
-  },
-  {
-    "date": "08/09/2024",
-    "personA": "Mauricio",
-    "personB": "Abner"
-  },
-  {
-    "date": "12/09/2024",
-    "personA": "Abisay",
-    "personB": "Abihud"
-  },
-  {
-    "date": "15/09/2024",
-    "personA": "Jehosafat",
-    "personB": "Neftali"
-  },
-  {
-    "date": "19/09/2024",
-    "personA": "Pedro",
-    "personB": "Esteban"
-  },
-  {
-    "date": "22/09/2024",
-    "personA": "Neftali",
-    "personB": "Abner"
-  },
-  {
-    "date": "26/09/2024",
-    "personA": "Jehosafat",
-    "personB": "Mau"
-  },
-  {
-    "date": "29/09/2024",
-    "personA": "Abisay",
-    "personB": "Abihud"
-  },
-  {
-    "date": "03/10/2024",
-    "personA": "Pedro",
-    "personB": "Abner"
-  },
-  {
-    "date": "06/10/2024",
-    "personA": "Mauricio",
-    "personB": "Esteban"
-  },
-  {
-    "date": "10/10/2024",
-    "personA": "Jehosafat",
-    "personB": "Neftali"
-  },
-  {
-    "date": "13/10/2024",
-    "personA": "Abisay",
-    "personB": "Abihud"
-  },
-  {
-    "date": "17/10/2024",
-    "personA": "Pedro",
-    "personB": "Abner"
-  },
-  {
-    "date": "20/10/2024",
-    "personA": "Mauricio",
-    "personB": "Esteban"
-  },
-  {
-    "date": "24/10/2024",
-    "personA": "Pedro",
-    "personB": "Neftali"
-  },
-  {
-    "date": "27/10/2024",
-    "personA": "Abisay",
-    "personB": "Abihud"
-  },
-  {
     "date": "31/10/2024",
-    "personA": "Jehosafat",
-    "personB": "Esteban"
+    "personA": "Jehosafat Coronado",
+    "personB": "Esteban Ayala"
   },
   {
     "date": "03/11/2024",
-    "personA": "Mauricio",
-    "personB": "Abner"
+    "personA": "Mauricio Farfan",
+    "personB": "Abner Delgado"
+  },
+  {
+    "date": "07/11/2024",
+    "personA": "Jehosafat Coronado",
+    "personB": "Neftalí Suasteguí Jr"
+  },
+  {
+    "date": "10/11/2024",
+    "personA": "Abisay Delgado",
+    "personB": "Jehosafat Coronado"
+  },
+  {
+    "date": "14/11/2024",
+    "personA": "Pedro Bizarro",
+    "personB": "Abihud Hernández"
+  },
+  {
+    "date": "17/11/2024",
+    "personA": "Mauricio Farfan",
+    "personB": "Abner Delgado"
+  },
+  {
+    "date": "21/11/2024",
+    "personA": "Esteban Ayala",
+    "personB": "Neftalí Suasteguí Jr"
+  },
+  {
+    "date": "24/11/2024",
+    "personA": "Abisay Delgado",
+    "personB": "Jehosafat Coronado"
+  },
+  {
+    "date": "28/11/2024",
+    "personA": "Pedro Bizarro",
+    "personB": "Neftalí Suasteguí Jr"
+  },
+  {
+    "date": "01/12/2024",
+    "personA": "Mauricio Farfan",
+    "personB": "Abner Delgado"
+  },
+  {
+    "date": "05/12/2024",
+    "personA": "Abihud Hernández",
+    "personB": "Esteban Ayala"
+  },
+  {
+    "date": "08/12/2024",
+    "personA": "Abisay Delgado",
+    "personB": "Mauricio Farfan"
+  },
+  {
+    "date": "12/12/2024",
+    "personA": "Pedro Bizarro",
+    "personB": "Esteban Ayala"
+  },
+  {
+    "date": "15/12/2024",
+    "personA": "Abihud Hernández",
+    "personB": "Abner Delgado"
+  },
+  {
+    "date": "19/12/2024",
+    "personA": "Abisay Delgado",
+    "personB": "Neftalí Suasteguí Jr"
+  },
+  {
+    "date": "22/12/2024",
+    "personA": "Jehosafat Coronado",
+    "personB": "Abihud Hernández"
+  },
+  {
+    "date": "26/12/2024",
+    "personA": "Pedro Bizarro",
+    "personB": "Esteban Ayala"
+  },
+  {
+    "date": "29/12/2024",
+    "personA": "Mauricio Farfan",
+    "personB": "Abner Delgado"
   }
 ]
