@@ -24,12 +24,12 @@ public class RoleSoundConsoleRepository : IRoleSoundConsole
 
             DayOfWeek dayOfWeek = dateTimeWithTimeZone.DayOfWeek;
 
-            if (dayOfWeek == DayOfWeek.Thursday)
+            if (dayOfWeek == DayOfWeek.Friday && roles is not null)
             {
                 string actualDate = dateTimeWithTimeZone.ToString("dd/MM/yyyy");
                 return ObtainRolePerDay(roles, actualDate);
             }
-            else if (dayOfWeek == DayOfWeek.Saturday)
+            else if (dayOfWeek == DayOfWeek.Saturday && roles is not null)
             {
                 string tomorrowDate = dateTimeWithTimeZone.AddDays(1).ToString("dd/MM/yyyy");
                 return ObtainRolePerDay(roles, tomorrowDate);
