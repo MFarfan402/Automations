@@ -4,6 +4,8 @@ using APIAutomation.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
+Console.WriteLine("Hello from Martha");
+
 // Add services to the container.
 
 builder.Services.AddControllers();
