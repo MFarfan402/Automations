@@ -1,0 +1,178 @@
+[
+  {
+    "date": "09/05/2025",
+    "parking": [
+      { "name": "Marcos Martínez" },
+      { "name": "Alejandro Morales" }
+    ],
+    "auditorium": [
+      { "name": "Neftalí Suástegui Jr" },
+      { "name": "Hugo Torres" }
+    ]
+  },
+  {
+    "date": "11/05/2025",
+    "parking": [
+      { "name": "Hugo Torres" },
+      { "name": "Esteban Ayala" }
+    ],
+    "auditorium": [
+      { "name": "Oscar Alarcón" },
+      { "name": "Elías Delgado" }
+    ]
+  },
+  {
+    "date": "16/05/2025",
+    "parking": [
+      { "name": "Neftalí Suástegui Jr" },
+      { "name": "Ricardo Macías" }
+    ],
+    "auditorium": [
+      { "name": "Gildardo Jiménez" },
+      { "name": "Rodolfo Barrera" }
+    ]
+  },
+  {
+    "date": "18/05/2025",
+    "parking": [
+      { "name": "Abner Delgado" },
+      { "name": "Abihud Hernández" }
+    ],
+    "auditorium": [
+      { "name": "Adán Gallegos" },
+      { "name": "Juan Gutiérrez" }
+    ]
+  },
+  {
+    "date": "23/05/2025",
+    "parking": [
+      { "name": "Elías Delgado" },
+      { "name": "Gildardo Jiménez" }
+    ],
+    "auditorium": [
+      { "name": "Alejandro Morales" },
+      { "name": "Ricardo Macías" }
+    ]
+  },
+  {
+    "date": "25/05/2025",
+    "parking": [
+      { "name": "Rodolfo Barrera" },
+      { "name": "Oscar Alarcón" }
+    ],
+    "auditorium": [
+      { "name": "Esteban Ayala" },
+      { "name": "Marcos Martínez" }
+    ]
+  },
+  {
+    "date": "30/05/2025",
+    "parking": [
+      { "name": "Joel Roblesgil Jr" },
+      { "name": "Jehosafat Coronado" }
+    ],
+    "auditorium": [
+      { "name": "Abisay Delgado" },
+      { "name": "Abihud Hernández" }
+    ]
+  },
+  {
+    "date": "01/06/2025",
+    "parking": [
+      { "name": "Abisay Delgado" },
+      { "name": "Adán Gallegos" }
+    ],
+    "auditorium": [
+      { "name": "Abner Figueroa" },
+      { "name": "Jehosafat Coronado" }
+    ]
+  },
+  {
+    "date": "06/06/2025",
+    "parking": [
+      { "name": "Juan Gutiérrez" },
+      { "name": "Abner Figueroa" }
+    ],
+    "auditorium": [
+      { "name": "Omar Muñoz" },
+      { "name": "Abner Delgado" }
+    ]
+  },
+  {
+    "date": "08/06/2025",
+    "parking": [
+      { "name": "Omar Muñoz" },
+      { "name": "Abner Figueroa" }
+    ],
+    "auditorium": [
+      { "name": "Joel Roblesgil Jr" },
+      { "name": "Alejandro Morales" }
+    ]
+  },
+  {
+    "date": "13/06/2025",
+    "parking": [
+      { "name": "Jehosafat Coronado" },
+      { "name": "Abihud Hernández" }
+    ],
+    "auditorium": [
+      { "name": "Omar Muñoz" },
+      { "name": "Joel Roblesgil Jr" }
+    ]
+  },
+  {
+    "date": "15/06/2025",
+    "parking": [
+      { "name": "Neftalí Suástegui Jr" },
+      { "name": "Adán Gallegos" }
+    ],
+    "auditorium": [
+      { "name": "Jehosafat Coronado" },
+      { "name": "Juan Gutiérrez" }
+    ]
+  },
+  {
+    "date": "20/06/2025",
+    "parking": [
+      { "name": "Esteban Ayala" },
+      { "name": "Joel Roblesgil Jr" }
+    ],
+    "auditorium": [
+      { "name": "Elías Delgado" },
+      { "name": "Gildardo Jiménez" }
+    ]
+  },
+  {
+    "date": "22/06/2025",
+    "parking": [
+      { "name": "Omar Muñoz" },
+      { "name": "Alejandro Morales" }
+    ],
+    "auditorium": [
+      { "name": "Abihud Hernández" },
+      { "name": "Ricardo Macías" }
+    ]
+  },
+  {
+    "date": "27/06/2025",
+    "parking": [
+      { "name": "Ricardo Macías" },
+      { "name": "Marcos Martínez" }
+    ],
+    "auditorium": [
+      { "name": "Rodolfo Barrera" },
+      { "name": "Oscar Alarcón" }
+    ]
+  },
+  {
+    "date": "29/06/2025",
+    "parking": [
+      { "name": "Juan Gutiérrez" },
+      { "name": "Oscar Alarcón" }
+    ],
+    "auditorium": [
+      { "name": "Abisay Delgado" },
+      { "name": "Abner Delgado" }
+    ]
+  }
+]

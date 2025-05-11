@@ -9,6 +9,7 @@ builder.Services.AddControllers();
 
 // DataSource: File
 builder.Services.AddSingleton<IRoleSoundConsole, RoleSoundConsoleRepository>();
+builder.Services.AddSingleton<IAllRoles, AllRolesRepository>();
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
